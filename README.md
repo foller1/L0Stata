@@ -3,4 +3,3 @@ A simple script for downloading the LayerZero table from Dune and filtering by t
 
 Add wallet addresses to files/wallets.txt and run the script
 
-TG: https://t.me/cryptogovnozavod
